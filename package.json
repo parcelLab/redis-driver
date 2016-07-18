@@ -1,0 +1,27 @@
+{
+  "name": "redis-driver",
+  "version": "0.0.1",
+  "description": "Interface for redis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parcelLab/redis-driver.git"
+  },
+  "keywords": [
+    "redis",
+    "driver",
+    "parcellab"
+  ],
+  "author": "Oscar Reyes, Julian Krenge.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parcelLab/redis-driver/issues"
+  },
+  "homepage": "https://github.com/parcelLab/redis-driver",
+  "dependencies": {
+    "redis": "^2.6.2"
+  }
+}
